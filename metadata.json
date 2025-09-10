@@ -1,0 +1,5 @@
+{
+  "name": "Image to Video AI Generator",
+  "description": "An application that transforms a static image into a dynamic video clip using AI. Users can upload an image, provide a text prompt, and generate a short MP4 video.",
+  "requestFramePermissions": []
+}
